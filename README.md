@@ -8,7 +8,7 @@
 
 I've been working with technology since 2013, and during this time I worked with the most diverse types of projects such as: web programming, systems using geolocation, internet of things and big data (engineering, architecture and data modeling).
 
-I'm currently enchanted by the universe of data science. What motivates me to work with data projects is knowing that today we have a huge amount of data everywhere and, using the right technologies, we can get answers to solve big problems, impacting all of society and making the world a better place .
+I'm currently enchanted by the universe of data science. What motivates me to work with data projects is knowing that today we have a huge amount of data everywhere and, using the right technologies, we can get answers to solve big problems, impacting all of society and making the world a better place.
 
 
 ### 👩‍💻 &nbsp;About Me
@@ -43,7 +43,7 @@ I'm currently enchanted by the universe of data science. What motivates me to wo
 ### 📫 &nbsp; How to reach me
 
 
-<a href="https://www.linkedin.com/in/mayara-amandas//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/mayara-amandas/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:mayara.amandatr@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/mayara.amandatr@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/mayara_amandas"><img src="https://img.shields.io/badge/-mayara_amandas_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
