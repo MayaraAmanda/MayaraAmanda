@@ -40,7 +40,7 @@ I'm currently enchanted by the universe of data science. What motivates me to wo
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 
 
-### 📫 &nbsp; How to reach me:
+### 📫 &nbsp; How to reach me
 
 
 <a href="https://www.linkedin.com/in/mayara-amandas//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -49,8 +49,5 @@ I'm currently enchanted by the universe of data science. What motivates me to wo
 
 ### ℹ️ &nbsp;Github Info
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraAmanda&show_icons=true&locale=en&hide_border=true&theme=dracula" alt="mayara" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayaraAmanda&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=dracula" alt="manumanoj0010"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MayaraAmanda&show_icons=true&locale=en&hide_border=true&theme=dracula" alt="mayara" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MayaraAmanda&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c&theme=dracula" alt="manumanoj0010"/>
 
