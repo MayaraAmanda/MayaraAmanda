@@ -15,7 +15,8 @@ I'm currently enchanted by the universe of data science. What motivates me to wo
 
 - <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" /> I'm from Brazil
 - <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
-- 👩‍💻 I'm a Master's student in Computer Science at Federal University of Juiz de Fora (UFJF)
+- 👩‍💻 I'm a Master in Computer Science at Federal University of Juiz de Fora (UFJF)
+- 👩‍💻 I'm a PhD student in Computer Modeling at Federal University of Juiz de Fora (UFJF).
 - 👩‍🏫 Love teaching and sharing knowledge
 - <img width="16" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="" /> Currently my favorite programming language is Python
 - <img width="20" src="https://cdn0.iconfinder.com/data/icons/infographic-orchid-vol-1/256/Histogram-512.png" alt="" /> As a challenge enthusiastic, I am diving into the data science world
